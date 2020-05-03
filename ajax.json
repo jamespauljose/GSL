@@ -1,0 +1,82 @@
+[
+    {
+        "Serial_No":"01",
+        "Name":"Milk",
+        "Quantity":"1",
+        "Unit":"Liter",
+        "Department":"Food item",
+        "Notes":"Best Quality"
+    },
+    {
+        "Serial_No":"02",
+        "Name":"Rice",
+        "Quantity":"5",
+        "Unit":"Kilogram",
+        "Department":"Food item",
+        "Notes":"Branded and New arrivals"
+    },
+    {
+        "Serial_No":"03",
+        "Name":"Mask",
+        "Quantity":"5",
+        "Unit":"Number",
+        "Department":"Health product",
+        "Notes":"Best Quality"
+    },
+    {
+        "Serial_No":"04",
+        "Name":"Sugar",
+        "Quantity":"2",
+        "Unit":"Kilogram",
+        "Department":"Food item",
+        "Notes":"Best Quality"
+    },
+    {
+        "Serial_No":"05",
+        "Name":"Chilly Powder",
+        "Quantity":"1",
+        "Unit":"Kilogram",
+        "Department":"Food item",
+        "Notes":"Branded"
+    },
+    {
+        "Serial_No":"06",
+        "Name":"Oil",
+        "Quantity":"1",
+        "Unit":"Liter",
+        "Department":"Food item",
+        "Notes":"Branded"
+    },
+    {
+        "Serial_No":"07",
+        "Name":"Hand wash",
+        "Quantity":"2",
+        "Unit":"Number",
+        "Department":"Health product",
+        "Notes":"Branded"
+    },
+    {
+        "Serial_No":"08",
+        "Name":"Onion",
+        "Quantity":"1",
+        "Unit":"Kilogram",
+        "Department":"Food item",
+        "Notes":"Best Quality"
+    },
+    {
+        "Serial_No":"09",
+        "Name":"Wheat Flour",
+        "Quantity":"1",
+        "Unit":"Kilogram",
+        "Department":"Food item",
+        "Notes":"Branded And Best Quality"
+    },
+    {
+        "Serial_No":"10",
+        "Name":"Eggs",
+        "Quantity":"10",
+        "Unit":"Number",
+        "Department":"Food item",
+        "Notes":"Best Quality"
+    }
+]

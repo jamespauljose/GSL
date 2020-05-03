@@ -1,0 +1,19 @@
+body {
+    background-color:black;
+    opacity: 0.8;
+    background-image: url("/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+tr,td,tc,table,tbody{ background-color: white;
+    opacity: 1;
+
+}
+th{
+    background-color: chartreuse;
+}
+a{
+    font-style: italic;
+    font-weight: bolder;
+}
